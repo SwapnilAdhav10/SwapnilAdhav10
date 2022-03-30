@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwapnilAdhav10
 - 👀 I’m interested in DATA. Because data is everything right now
-- 🌱 I’m currently learning PG-Diploma in Big Data Analytics
+- 🌱 I’m currently learning Big Data Analytics
 
 
 <!---
